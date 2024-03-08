@@ -43,7 +43,7 @@ function About() {
           <img
             className="rounded-full transition-shadow duration-300 ease-in-out hover:shadow-xl hover:shadow-teal-300/70"
             alt="hero"
-            src='../Images/ProfileImg.jpg'
+            src='/Images/ProfileImg.jpg'
           />
         </div>
       </div>
